@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Blood Donor App (Vue + Vite)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple **Vue.js** project using **Vite** for managing blood donors.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Features
+
+- Keep multiple donors in `donors.js` like:
+
+``` js
+{ name: "Rahim", blood: "A+", city: "Dhaka", available: true }
